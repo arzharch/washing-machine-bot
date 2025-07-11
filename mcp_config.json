@@ -1,0 +1,13 @@
+{
+  "zoho_config": {
+    "api_base_url": "https://desk.zoho.com/api/v1",
+    "org_id": "YOUR_ORG_ID",
+    "auth_token": "YOUR_AUTH_TOKEN",
+    "department_id": "YOUR_DEPARTMENT_ID"
+  },
+  "knowledge_base_file": "knowledge_base.json",
+  "server_settings": {
+    "log_level": "INFO",
+    "max_search_results": 10
+  }
+}
